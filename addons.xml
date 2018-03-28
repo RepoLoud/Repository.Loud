@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.Concerts"
        name="Concerts"
-       version="1.0"
+       version="0.03"
        provider-name="Loud@PT">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
